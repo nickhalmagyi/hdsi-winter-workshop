@@ -1,0 +1,12 @@
+
+# Welcome to the HDSI Winter Workshop on LLMs as Autonomous Agents
+
+<img src="https://drive.google.com/uc?export=view&id=1q4SGPmn6sWQhskt4D-1D09q_6C9FDz_L" alt="drawing" width="400"/>
+
+Expected completion time: 2.5 hours
+
+This tutorial has three parts:
+
+1. * [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
+2. * [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb)
+3. * [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
