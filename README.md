@@ -10,3 +10,7 @@ This tutorial has three parts:
 * [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
 * [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb)
 * [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
+
+
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1ULuNR1-h3G3C0sjMkEldaQlj38zS8Smc" alt="drawing" width="500"/>
