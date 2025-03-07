@@ -7,6 +7,6 @@ Expected completion time: 2.5 hours
 
 This tutorial has three parts:
 
-1. * [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
-2. * [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb)
-3. * [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
+* [Pre-Assignment: API Setup](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
+* [Part 1: Introduction to Agentic Frameworks](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/llm-agents-part1.ipynb)
+* [Part 2: Part II: Grounding Agents with Fine-tuning and RL](https://github.com/mauriciogtec/hdsi-winter-workshop/blob/main/pre-assignment.ipynb)
